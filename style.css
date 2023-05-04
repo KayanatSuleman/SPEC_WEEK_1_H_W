@@ -1,0 +1,41 @@
+#container {
+	margin: 50px auto;
+	width: 500px;
+	text-align: center;
+	font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+form {
+	margin-bottom: 30px;
+	font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+label {
+	display: inline-block;
+	width: 150px;
+	text-align: left;
+	font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+input[type="text"] {
+	padding: 5px;
+	border: 1px solid #ccc;
+	border-radius: 3px;
+	font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+input[type="button"] {
+	padding: 5px 10px;
+	background-color: #008CBA;
+	color: #4c3d3d;
+	border: none;
+	border-radius: 3px;
+	cursor: pointer;
+	font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+#result {
+	font-size: 24px;
+	font-weight: bold;
+	font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
